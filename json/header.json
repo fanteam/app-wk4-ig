@@ -1,0 +1,15 @@
+{
+    "HomePage":
+        {
+            "HeaderLeftUrl":"https://github.com/fanteam/app-wk4-ig/blob/master/img/iglogo.jpg?raw=true",
+            "HeaderRightUrl":"https://github.com/fanteam/app-wk4-ig/blob/master/img/plant.jpg?raw=true",
+            "bottomImage":"https://github.com/fanteam/app-wk4-ig/blob/master/img/bottom.jpg?raw=true"
+        },
+
+    "MessagePage":
+        {
+            "HeaderLeftUrl":"https://github.com/fanteam/app-wk4-ig/blob/master/img/mm2.jpg?raw=true",
+            "HeaderRightUrl":"https://github.com/fanteam/app-wk4-ig/blob/master/img/mmr.jpg?raw=true"
+        }
+    
+}

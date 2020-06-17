@@ -1,0 +1,31 @@
+{
+    "postList":[
+        {
+            "id":"burberry",
+            "profile":"https://github.com/fanteam/app-wk4-ig/blob/master/img/post_title1.jpg?raw=true",
+            "main_img":"https://github.com/fanteam/app-wk4-ig/blob/master/img/post1.jpg?raw=true",
+            "like":"55,791",
+            "content":"  Introducing Evolution,the new #BurberrySpringSummer20 campaign starring Bella Hadid. Showcasing the new collection by Riccardo Tisci, unconventional poses and animalistic shapes created by the cast reinforce the power and symbolism of animals.",
+            "comment":"翻譯年糕",
+            "time":"28 分鐘"
+        },
+        {
+            "id":"godreplyme",
+            "profile":"https://github.com/fanteam/app-wk4-ig/blob/master/img/post_title2.jpg?raw=true",
+            "main_img":"https://github.com/fanteam/app-wk4-ig/blob/master/img/pic1.jpg?raw=true",
+            "like":"48,862",
+            "content":"  餓了嗎？吃麵包吧 #sofunhahaha",
+            "comment":"查看全部381則留言",
+            "time":"28 分鐘"
+        },
+        {
+            "id":"strawberrybread00",
+            "profile":"https://github.com/fanteam/app-wk4-ig/blob/master/img/head.jpg?raw=true",
+            "main_img":"https://github.com/fanteam/app-wk4-ig/blob/master/img/post2.jpg?raw=true",
+            "like":"291,323",
+            "content":" 阿嬤養的",
+            "comment":"查看全部1062則留言",
+            "time":"1天"
+        }
+    ]
+}
